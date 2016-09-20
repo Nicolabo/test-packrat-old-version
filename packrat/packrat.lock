@@ -1,6 +1,6 @@
 PackratFormat: 1.4
 PackratVersion: 0.4.7.1
-RVersion: 3.2.4
+RVersion: 3.3.1
 Repos: CRAN=https://cran.rstudio.com/
 
 Package: R6
@@ -32,8 +32,8 @@ Requires: Rcpp
 
 Package: jsonlite
 Source: CRAN
-Version: 1.0
-Hash: f32817e181c39ede83fdd3e699348b69
+Version: 1.1
+Hash: 86d4b85b84421a4815f1bb4872e30ef4
 
 Package: mime
 Source: CRAN
